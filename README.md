@@ -1,2 +1,2 @@
 # ReservaCine
-Aplicación de consola que permite reservar butacas permitiendo también dar de baja la butaca. Se usaron matrices y bucles.
+Aplicación de consola que permite reservar butacas de un cine permitiendo también dar de baja la misma. Se usaron matrices y bucles.
