@@ -1,0 +1,15 @@
+C:\Users\pcser\Desktop\ReservaCine\obj\Debug\net6.0\ReservaCine.csproj.AssemblyReference.cache
+C:\Users\pcser\Desktop\ReservaCine\obj\Debug\net6.0\ReservaCine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pcser\Desktop\ReservaCine\obj\Debug\net6.0\ReservaCine.AssemblyInfoInputs.cache
+C:\Users\pcser\Desktop\ReservaCine\obj\Debug\net6.0\ReservaCine.AssemblyInfo.cs
+C:\Users\pcser\Desktop\ReservaCine\obj\Debug\net6.0\ReservaCine.csproj.CoreCompileInputs.cache
+C:\Users\pcser\Desktop\ReservaCine\bin\Debug\net6.0\ReservaCine.exe
+C:\Users\pcser\Desktop\ReservaCine\bin\Debug\net6.0\ReservaCine.deps.json
+C:\Users\pcser\Desktop\ReservaCine\bin\Debug\net6.0\ReservaCine.runtimeconfig.json
+C:\Users\pcser\Desktop\ReservaCine\bin\Debug\net6.0\ReservaCine.dll
+C:\Users\pcser\Desktop\ReservaCine\bin\Debug\net6.0\ReservaCine.pdb
+C:\Users\pcser\Desktop\ReservaCine\obj\Debug\net6.0\ReservaCine.dll
+C:\Users\pcser\Desktop\ReservaCine\obj\Debug\net6.0\refint\ReservaCine.dll
+C:\Users\pcser\Desktop\ReservaCine\obj\Debug\net6.0\ReservaCine.pdb
+C:\Users\pcser\Desktop\ReservaCine\obj\Debug\net6.0\ReservaCine.genruntimeconfig.cache
+C:\Users\pcser\Desktop\ReservaCine\obj\Debug\net6.0\ref\ReservaCine.dll
